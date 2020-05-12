@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://images8.alphacoders.com/102/1023439.png);
+   background-size: auto 100vh;
+    }
+    font-family: Arial;
+  }
+  .menu {
+    background-color: ;
+  }
+  .menu li{
+    list-style: none;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  a {
+    text-decoration: none;
+    color: #00FFFF;
+    font-family: times;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-title{
+    text-align: center;
+    color: 	#;
+    font-family: courier;
+  }
+  .site-subtitle{
+    color: white;
+    font-style: italic;
+    text-align: center;
+  }
+  
